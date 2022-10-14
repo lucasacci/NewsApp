@@ -3,7 +3,6 @@ import { Noticia } from './Noticia'
 
 export const ListaNoticia = ({datos}) => {
 
-  console.log(datos);
 
   return (
 

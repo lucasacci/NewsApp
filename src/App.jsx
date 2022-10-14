@@ -6,8 +6,8 @@ function App() {
 
   return (
     <div>
-    <Titulo/>
-    <Form/>
+      <Titulo/>
+      <Form/>
     </div>
   )
 }

@@ -22,12 +22,12 @@ export const Form = () => {
     const options = [
         { value: 'business', label: 'Business' },
         { value: 'entertainment', label: 'Entertainment' },
-        { value: 'world', label: 'World' },
+        { value: 'top', label: 'Top' },
         { value: 'health', label: 'health' },
         { value: 'sports', label: 'Sports' }
     ]
 
-    const apiKey = 'pub_12224e6b637cd5cc87115b0278a2681962fb6'
+    const apiKey = 'pub_12224d43079eabcd4cc76c4984e8d3964a6e1'
 
     const consultarAPI = async () => {
         try {
