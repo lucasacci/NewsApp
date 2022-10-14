@@ -1,0 +1,21 @@
+#root{
+    min-height: 100vh;
+}
+
+body{
+    background-color: #ffecd1;
+}
+
+.widthCard{
+    width: 18rem;
+}
+
+
+.formBrand{
+    border-radius: 30px;
+    background-color: #15616d;
+}
+
+.headerColor{
+    background-color: #001524;
+}
